@@ -1,5 +1,5 @@
 app-name: uniqplayatest
-  profile: test
+  profile-name: test
   said:
     first:HELLO
     second:TEST
